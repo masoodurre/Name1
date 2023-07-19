@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(88, 88, 194);
+   
+}
+table, th, td {
+    border:1px solid whitesmoke;
+    border-collapse: collapse;
+}
+ body{
+    display: grid;
+ }
